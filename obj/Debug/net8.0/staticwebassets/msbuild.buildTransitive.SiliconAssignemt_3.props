@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SiliconAssignemt_3.props" />
+</Project>

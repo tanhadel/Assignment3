@@ -1,0 +1,113 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SiliconAssignemt_3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SiliconAssignemt_3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\_cores.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_cores.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\_sections.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_sections.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\components\\_container.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_container.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\components\\_switchs.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_switchs.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\cores\\_colors.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_colors.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\cores\\_common.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_common.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\cores\\_fonts.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\cores\\_media.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\cores\\_media.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\scss\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\imag\\brands\\logo (1).svg",
+      "PackagePath": "staticwebassets\\imag\\brands\\logo (1).svg"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\imag\\brands\\logo (2).svg",
+      "PackagePath": "staticwebassets\\imag\\brands\\logo (2).svg"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\imag\\brands\\logo (3).svg",
+      "PackagePath": "staticwebassets\\imag\\brands\\logo (3).svg"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\imag\\brands\\logo.svg",
+      "PackagePath": "staticwebassets\\imag\\brands\\logo.svg"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\imag\\logotype.svg",
+      "PackagePath": "staticwebassets\\imag\\logotype.svg"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\imag\\taskmaster\\image.svg",
+      "PackagePath": "staticwebassets\\imag\\taskmaster\\image.svg"
+    },
+    {
+      "Id": "C:\\AspCore\\Silicon\\SiliconAssignemt_3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SiliconAssignemt_3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SiliconAssignemt_3.props",
+      "PackagePath": "build\\SiliconAssignemt_3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SiliconAssignemt_3.props",
+      "PackagePath": "buildMultiTargeting\\SiliconAssignemt_3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SiliconAssignemt_3.props",
+      "PackagePath": "buildTransitive\\SiliconAssignemt_3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
